@@ -1,0 +1,355 @@
+body {
+  text-align: center;
+  background-color: rgb(250, 239, 233);
+}
+
+h1 {
+  margin-top: 50px; /* Adjust as needed */
+}
+h1 {
+  font-family: 'Teko', sans-serif;
+  font-size: 30px;
+  font-weight: normal;
+
+  margin-top: 50px;
+}
+
+.negroes {
+  fill: black;
+  stroke: black;
+}
+
+.france {
+  fill: orange;
+  stroke: black;
+}
+.text {
+  font-family: 'Signika Negative', sans-serif;
+  font-size: 10px;
+}
+
+.ftext {
+  font-family: 'Signika Negative', sans-serif;
+  font-size: 10px;
+}
+.title {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 13px;
+  fill: black;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 57px;
+  fill: black;
+}
+
+.rectangle {
+  fill: black;
+}
+
+.percentage-label {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: white;
+
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+.orangelevel {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: black;
+
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+.rectangle {
+  fill: black;
+  stroke: black;
+}
+.orangelevel1 {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: black;
+
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+.orangelevel2 {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: black;
+
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+.orangelevel3 {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: black;
+
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+.orangelevel4 {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: black;
+
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+.orangelevel5 {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: black;
+
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+.orangelevel6 {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: black;
+
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+.orangelevel7 {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: black;
+
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+.rectangle {
+  fill: black;
+  stroke: black;
+}
+
+.orange-rectangle {
+  fill: orange;
+  stroke: orange;
+}
+.title1 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 13px;
+  fill: black;
+  font-weight: bold;
+}
+
+.subtitle1 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 57px;
+  fill: black;
+}
+
+.percentage-lable1 {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: white;
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+
+.orange-rectangle1 {
+  fill: orange;
+  stroke: orange;
+}
+.rectangle1 {
+  fill: black;
+  stroke: black;
+}
+.title2 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 13px;
+  fill: black;
+  font-weight: bold;
+}
+
+.subtitle2 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 57px;
+  fill: black;
+}
+
+.percentage-lable2 {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: white;
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+
+.orange-rectangle2 {
+  fill: orange;
+  stroke: orange;
+}
+.rectangle2 {
+  fill: black;
+  stroke: black;
+}
+.title3 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 13px;
+  fill: black;
+  font-weight: bold;
+}
+
+.subtitle3 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 57px;
+  fill: black;
+}
+
+.percentage-lable3 {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: white;
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+
+.orange-rectangle3 {
+  fill: orange;
+  stroke: orange;
+}
+.rectangle3 {
+  fill: black;
+  stroke: black;
+}
+.title4 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 13px;
+  fill: black;
+  font-weight: bold;
+}
+
+.subtitle4 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 57px;
+  fill: black;
+}
+
+.percentage-lable4 {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: white;
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+
+.orange-rectangle4 {
+  fill: orange;
+  stroke: orange;
+}
+.rectangle4 {
+  fill: black;
+  stroke: black;
+}
+.title5 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 13px;
+  fill: black;
+  font-weight: bold;
+}
+
+.subtitle5 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 57px;
+  fill: black;
+}
+
+.percentage-lable5 {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: white;
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+
+.orange-rectangle5 {
+  fill: orange;
+  stroke: orange;
+}
+.rectangle5 {
+  fill: black;
+  stroke: black;
+}
+.title6 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 13px;
+  fill: black;
+  font-weight: bold;
+}
+
+.subtitle6 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 57px;
+  fill: black;
+}
+
+.percentage-label6 {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: white;
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+
+.orange-rectangle6 {
+  fill: orange;
+  stroke: orange;
+}
+.rectangle6 {
+  fill: black;
+  stroke: black;
+}
+.title7 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 13px;
+  fill: black;
+  font-weight: bold;
+}
+
+.subtitle7 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 57px;
+  fill: black;
+}
+
+.percentage-lable7 {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: white;
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+
+.orange-rectangle7 {
+  fill: orange;
+  stroke: orange;
+}
+.rectangle7 {
+  fill: black;
+  stroke: black;
+}
